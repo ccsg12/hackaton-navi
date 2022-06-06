@@ -1,5 +1,5 @@
 {
-  "name": "clagedis",
+  "name": "hackaton-navi",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,8 +9,12 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "leaflet": "^1.8.0",
+    "lodash": "^4.17.21",
     "vue": "^2.6.14",
-    "vue-router": "^3.5.1"
+    "vue-router": "^3.5.1",
+    "vue2-leaflet": "^2.7.1",
+    "vuetify": "^2.6.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
@@ -20,8 +24,13 @@
     "@vue/cli-plugin-router": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
     "eslint": "^7.32.0",
-    "eslint-plugin-vue": "^8.0.3",
-    "vue-template-compiler": "^2.6.14"
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-vue": "^9.1.0",
+    "sass": "~1.32.0",
+    "sass-loader": "^10.0.0",
+    "vue-cli-plugin-vuetify": "~2.5.1",
+    "vue-template-compiler": "^2.6.14",
+    "vuetify-loader": "^1.7.0"
   },
   "eslintConfig": {
     "root": true,
