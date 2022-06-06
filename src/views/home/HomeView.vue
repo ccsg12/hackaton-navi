@@ -94,7 +94,7 @@
 
             <ul class="alt">
               <li>
-                <a href="https://www.canva.com/design/DAD9wvKaeIM/ino76mIDTnbYIBzKSEoeKw/view?utm_content=DAD9wvKaeIM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
+                <a href="https://www.youtube.com/watch?v=clxEEOnxeus&ab_channel=YuYiWang">
                   Vídeo - Pitch do projeto
                 </a>
               </li>
