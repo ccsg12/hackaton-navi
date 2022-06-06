@@ -57,6 +57,10 @@
       </header>
 
       <div class="inner">
+        <p class="description">
+          Mapa de calor do território brasileiro, alimentado por um modelo que leva em consideração diversos parâmetros, tais como:
+          Irradiação solar, Número de casas, População, PIB per capita, Penetração da GD, ICMS, Custo de mão de obra, Índice de Burocracia e Taxa de inadimplência.
+        </p>
         <div class="map-container">
           <l-map :zoom="zoom" :center="center">
             <l-tile-layer :url="url"/>
